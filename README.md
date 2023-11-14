@@ -1,28 +1,29 @@
-# trafficsimulationproject
+# 3dhumananatomyexplorer
 This is a repository for our Computer Graphics project, where we use Three.js.
 
-# Traffic Stop Simulation
+# 3D Human Anatomy Explorer
+
 ## Overview
 
-The Traffic Stop Simulation is a web-based project that simulates a basic traffic scenario using Python (Flask) for server-side logic and HTML, CSS, and JavaScript for client-side rendering. The simulation includes a 3D visualization of a traffic stop using WebGL with the help of Three.js.
+The 3D Human Anatomy Explorer is an interactive educational application that allows users to explore the human anatomy in 3D. The application is built using WebGL for 3D rendering and Python (Flask) for server-side logic. Users can navigate through different body systems, interact with 3D organs, and learn about their functions. Additionally, clicking on a specific organ provides users with relevant facts and information.
 
 ## Features
 
-- **Flask Server:** Utilizes Flask, a Python web framework, for server-side logic and handling HTTP requests.
-- **HTML, CSS, JavaScript:** Implements the front-end using standard web technologies, providing structure, styling, and interactivity.
-- **Three.js and WebGL:** Renders interactive 3D graphics in the browser for a realistic traffic stop simulation.
+- **Interactive 3D Exploration:** Navigate through different body systems, including the skeletal, muscular, circulatory, and nervous systems, using a user-friendly 3D interface.
+  
+- **Organ Information:** Click on specific organs to view detailed information, facts, and functions. 
 
-## Technologies To Be Used
+- **WebGL and Three.js:** Utilizes WebGL and the Three.js library for creating immersive 3D graphics in the browser.
+
+- **Python (Flask) Server:** The server-side logic is handled by Flask, a Python web framework, for routing and serving content.
+
+## Technologies Used
 
 - Python (Flask)
 - HTML
 - CSS
 - JavaScript
-- Three.js - A JavaScript library for creating 3D graphics in the browser.
+- WebGL
+- Three.js - A JavaScript library for 3D graphics.
 
-## Project Structure
 
-- `app.py`: The main Flask application script handling server-side logic.
-- `templates/index.html`: HTML template for rendering the web page.
-- `static/game.js`: JavaScript file containing the Three.js code and client-side logic.
-- `static/styles.css`: CSS file for styling the HTML elements. 
