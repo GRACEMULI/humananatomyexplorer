@@ -5,11 +5,11 @@ This is a repository for our Computer Graphics project, where we use Three.js.
 
 ## Overview
 
-The Human Anatomy Explorer is an interactive educational application that allows users to explore the human anatomy in 3D. The application is built using WebGL for 3D rendering and Python (Flask) for server-side logic. Users can navigate through different body systems, interact with 3D organs, and learn about their functions. Additionally, clicking on a specific organ provides users with relevant facts and information.
+The Human Anatomy Explorer is an interactive educational application that allows users to explore the human anatomy in 3D. The application is built using WebGL for 3D rendering and Python (Flask) for server-side logic. Users can navigate through different body systems and learn about their functions. Additionally, clicking on a specific organ provides users with relevant facts and information.
 
 ## Features
 
-- **Interactive 3D Exploration:** Navigate through different body systems, including the skeletal, muscular, circulatory, and nervous systems, using a user-friendly 3D interface.
+- **Interactive 3D Exploration:** Navigate through different body systemsusing a user-friendly 3D interface.
   
 - **Organ Information:** Click on specific organs to view detailed information, facts, and functions. 
 
