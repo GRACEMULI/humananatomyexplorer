@@ -1,21 +1,29 @@
-# trafficsimulationproject
-This is a repository for the Computer Graphics project, where we use Three.js.
+# humananatomyexplorer
+This is a repository for our Computer Graphics project, where we use Three.js.
 
-# Traffic Stop Simulation
+# Human Anatomy Explorer
+
 ## Overview
 
-The Traffic Stop Simulation is an interactive web project that simulates a basic traffic scenario using HTML, CSS, and JavaScript, with the help of the Three.js library for WebGL graphics. In this simulation, users can toggle a traffic light, affecting the movement of cars on a virtual road.
+The Human Anatomy Explorer is an interactive educational application that allows users to explore the human anatomy in 3D. The application is built using WebGL for 3D rendering and Python (Flask) for server-side logic. Users can navigate through different body systems and learn about their functions. Additionally, clicking on a specific organ provides users with relevant facts and information.
 
 ## Features
 
-- **3D Visualization:** Utilizes Three.js to create a visually appealing 3D environment.
-- **Interactive Traffic Light:** Users can manually toggle the traffic light between red and green states.
-- **Car Movement:** Cars move forward on the road when the traffic light is green.
+- **Interactive 3D Exploration:** Navigate through different body systemsusing a user-friendly 3D interface.
+  
+- **Organ Information:** Click on specific organs to view detailed information, facts, and functions. 
 
-## Technologies To Be Used
+- **WebGL and Three.js:** Utilizes WebGL and the Three.js library for creating immersive 3D graphics in the browser.
 
+- **Python (Flask) Server:** The server-side logic is handled by Flask, a Python web framework, for routing and serving content.
+
+## Technologies Used
+
+- Python (Flask)
 - HTML
 - CSS
 - JavaScript
-- Three.js- A cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser.
+- WebGL
+- Three.js - A JavaScript library for 3D graphics.
+
 
