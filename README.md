@@ -1,29 +1,15 @@
-# humananatomyexplorer
-This is a repository for our Computer Graphics project, where we use Three.js.
+# Body-Browser--A-3D-model-of-Human-Body
+Developed a web application that renders manipulable 3D anatomical models of the human body.
 
-# Human Anatomy Explorer
+Demo Video available here:
+https://drive.google.com/file/d/0B23R5d_bodtaSjZuMlNDWjV6bGc/view?usp=sharing
 
-## Overview
-
-The Human Anatomy Explorer is an interactive educational application that allows users to explore the human anatomy in 3D. The application is built using WebGL for 3D rendering and Python (Flask) for server-side logic. Users can navigate through different body systems and learn about their functions. Additionally, clicking on a specific organ provides users with relevant facts and information.
-
-## Features
-
-- **Interactive 3D Exploration:** Navigate through different body systemsusing a user-friendly 3D interface.
+  • Developed a web application that renders manipulable 3D anatomical models of the human body.
   
-- **Organ Information:** Click on specific organs to view detailed information, facts, and functions. 
+  • Several layers from muscle tissues down to blood vessels can be removed or made transparent to allow better study of individual body parts.
+  
+  • Used JavaScript and WebGL technology to display 3D images inside the web browser without requiring the installation of external browser plug-ins.
+  
+  • Used the webGL-loader mesh compression library.
 
-- **WebGL and Three.js:** Utilizes WebGL and the Three.js library for creating immersive 3D graphics in the browser.
-
-- **Python (Flask) Server:** The server-side logic is handled by Flask, a Python web framework, for routing and serving content.
-
-## Technologies Used
-
-- Python (Flask)
-- HTML
-- CSS
-- JavaScript
-- WebGL
-- Three.js - A JavaScript library for 3D graphics.
-
-
+Technology Stack: Web GL-Loader mesh compression library, Java script, HTML5, CSS Bootstrap 
