@@ -1,4 +1,4 @@
-# humananatomyexplore
+# humananatomyexplorer
 This is a repository for our Computer Graphics project, where we use Three.js.
 
 # Human Anatomy Explorer
